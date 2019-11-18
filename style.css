@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('images/cool_background.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.sign_up_page {
+    max-width: 360px;
+    padding: 10% 0 0;
+    margin: auto;
+}
+
+.form-page {
+    position: relative;
+    background-color: grey;
+    max-width: 360px;
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+}
+
+.form-page input {
+    background-color: white;
+    color: skyblue;
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+.form-page [type="button"]{
+    background-color: blue;
+    color: white;
+    width: 100%;
+} 
+
+a {
+    color: greenyellow;
+    font-size: 23px;
+}
+
+
